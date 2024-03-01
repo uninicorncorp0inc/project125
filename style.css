@@ -1,0 +1,13 @@
+body{
+    background-image: url(kitten_background.jpeg);
+    background-size: cover;
+}
+span{
+    color: purple;
+}
+h3{
+    color: purple;
+}
+.footer{
+    color: magenta;
+}
